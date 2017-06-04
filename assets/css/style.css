@@ -1,0 +1,35 @@
+body {
+	font: ;
+}
+
+button {
+	background-color: midnightblue;
+	color: #ffffff;
+	margin: 10px;
+	padding: 7px;
+	border: 3px solid mistyrose;
+}
+
+#newEntry-form {
+	width: 30%;
+	float: right;
+	clear: both;
+	background-color: mistyrose;
+    margin: 15px;
+    padding: 10px;
+}
+
+#resultsArea {
+	width: 60%;
+	float: left;
+}
+
+.gif {
+	display: inline;
+	float: left;
+	margin: 15px;
+}
+
+.gif p {
+	padding-left: 15px;
+}
