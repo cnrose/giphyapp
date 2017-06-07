@@ -66,6 +66,7 @@ $(document).ready(function(){
 			event.preventDefault();
 
 			var emotion = $("#emotion-input").val().trim();
+			$("#emotion-input").val("");
 
 			emotions.push(emotion);
 			makeButtons();
